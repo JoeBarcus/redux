@@ -1,0 +1,8 @@
+[0301/123404.037:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0301/123404.040:ERROR:file_io_win.cc(180)] CreateFile C:\Users\joeba\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0301/143227.447:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0301/143227.449:ERROR:file_io_win.cc(180)] CreateFile C:\Users\joeba\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0302/115048.341:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0302/115048.343:ERROR:file_io_win.cc(180)] CreateFile C:\Users\joeba\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0307/210839.086:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0307/210839.089:ERROR:file_io_win.cc(180)] CreateFile C:\Users\joeba\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
